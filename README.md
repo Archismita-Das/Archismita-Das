@@ -1,21 +1,29 @@
-# Hi, I'm Archismita 👋
+# Archismita Das
 
-B.Tech CSE student working on **NLP and causal AI**, building pipelines that extract structured causal models from text, with a focus on **Indian languages**. I also build full-stack apps.
+B.Tech Computer Science student (graduating 2027) working on NLP and causal AI. My research focuses on extracting structured causal models from text using LLM-based pipelines, with an emphasis on Indian languages. I also build full-stack applications.
 
-## 🔬 Research
-- **ClaimSense**: claim verification for Indic languages, a FIRE 2026 shared task submission
+## Research Interests
+- Causal model extraction from scientific text
+- LLM-based pipelines and evidence retrieval for Indic languages
+- Claim verification and fact-checking
 
-## 🚀 Projects
-- [**HackPulse**](https://github.com/Archismita-Das/HackPulse): full-stack hackathon leaderboard and evaluation platform (React, Spring Boot, MySQL)
-- [**Student Management App**](https://github.com/Archismita-Das/REPO-NAME): FastAPI + MySQL backend with a JS frontend
-- [**LeetCode Solutions**](https://github.com/Archismita-Das/leetcode-solutions): data structures and algorithms in Java
+## Selected Work
+**ClaimSense** | IndicClaimVer @ FIRE 2026
+Claim verification system for Indic languages, submitted to the FIRE 2026 shared task.
 
-## 🔧 Tech
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+**HackPulse** | React, Spring Boot, MySQL
+Full-stack hackathon leaderboard and evaluation platform with role-based dashboards for admins, judges, and participants.
+[Repository](https://github.com/Archismita-Das/HackPulse)
 
-## 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/archismita-das/) · [Email](adas672005@gmail.com)
+**Student Management System** | FastAPI, MySQL, JavaScript
+REST API with a web frontend for managing student records.
+[Repository](https://github.com/Archismita-Das/REPO-NAME)
+
+## Technical Skills
+- **Languages:** Python, Java, JavaScript, SQL
+- **ML / NLP:** LLM pipelines, evidence retrieval, graph computation
+- **Backend:** FastAPI, Spring Boot, MySQL
+- **Frontend:** React, HTML/CSS
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/archismita-das/) | [Email](adas672005@gmail.com)
