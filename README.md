@@ -3,6 +3,7 @@
 B.Tech Computer Science student (graduating 2027) working on NLP and causal AI. My research focuses on extracting structured causal models from text using LLM-based pipelines, with an emphasis on Indian languages. I also build full-stack applications.
 
 ## Research Interests
+- Knowledge graph construction and reasoning
 - Causal model extraction from scientific text
 - LLM-based pipelines and evidence retrieval for Indic languages
 - Claim verification and fact-checking
@@ -21,7 +22,7 @@ REST API with a web frontend for managing student records.
 
 ## Technical Skills
 - **Languages:** Python, Java, JavaScript, SQL
-- **ML / NLP:** LLM pipelines, evidence retrieval, graph computation
+- **ML / NLP:** LLM pipelines, knowledge graphs, graph computation, evidence retrieval
 - **Backend:** FastAPI, Spring Boot, MySQL
 - **Frontend:** React, HTML/CSS
 
