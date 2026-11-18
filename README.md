@@ -8,6 +8,16 @@ B.Tech Computer Science student (graduating 2027) working on NLP and causal AI. 
 - LLM-based pipelines and evidence retrieval for Indic languages
 - Claim verification and fact-checking
 
+## Research Pipeline
+
+```mermaid
+flowchart LR
+    A[Research paper] --> B[Evidence extraction]
+    B --> C[Causal relation extraction]
+    C --> D[Knowledge graph construction]
+    D --> E[Structured causal model]
+```
+
 ## Selected Work
 **ClaimSense** | IndicClaimVer @ FIRE 2026
 Claim verification system for Indic languages, submitted to the FIRE 2026 shared task.
@@ -25,6 +35,13 @@ REST API with a web frontend for managing student records.
 - **ML / NLP:** LLM pipelines, knowledge graphs, graph computation, evidence retrieval
 - **Backend:** FastAPI, Spring Boot, MySQL
 - **Frontend:** React, HTML/CSS
+
+<details>
+<summary><b>More projects</b></summary>
+
+- [LeetCode Solutions](https://github.com/Archismita-Das/leetcode-solutions): data structures and algorithms in Java
+
+</details>
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/archismita-das/) | [Email](adas672005@gmail.com)
