@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C084FC&center=true&vCenter=true&width=600&lines=NLP+%26+AI+Researcher;Knowledge+Graph+Builder;Full-Stack+Developer" alt="Typing animation" />
 </p>
+<img align="right" src="https://1drv.ms/i/c/5928052cb225fa0b/IQDQ2pIaX_-uQ5u_fL5suvNiAZZ9nrrTPRbNkU_rCOZzEI4?e=26MyS2" width="180" alt="Illustration"/>
 B.Tech Computer Science student (graduating 2027) working on NLP and causal AI. My research focuses on extracting structured causal models from text using LLM-based pipelines, with an emphasis on Indian languages. I also build full-stack applications.
 
 ## Research Interests
