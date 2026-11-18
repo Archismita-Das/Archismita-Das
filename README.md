@@ -28,3 +28,13 @@ REST API with a web frontend for managing student records.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/archismita-das/) | [Email](adas672005@gmail.com)
+
+## Coding Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archismita-Das&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Archismita-Das&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
