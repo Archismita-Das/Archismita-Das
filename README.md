@@ -11,15 +11,16 @@ B.Tech Computer Science student (graduating 2027) working on NLP and causal AI. 
 - Claim verification and fact-checking
 
 ## Selected Work
-**ClaimSense** | IndicClaimVer @ FIRE 2026
+
+**ClaimSense** | IndicClaimVer @ FIRE 2026<br>
 Claim verification system for Indic languages, submitted to the FIRE 2026 shared task.
 
-**HackPulse** | React, Spring Boot, MySQL
-Full-stack hackathon leaderboard and evaluation platform with role-based dashboards for admins, judges, and participants.
+**HackPulse** | React, Spring Boot, MySQL<br>
+Full-stack hackathon leaderboard and evaluation platform with role-based dashboards for admins, judges, and participants.<br>
 [Repository](https://github.com/Archismita-Das/HackPulse)
 
-**Student Management System** | FastAPI, MySQL, JavaScript
-REST API with a web frontend for managing student records.
+**Student Management System** | FastAPI, MySQL, JavaScript<br>
+REST API with a web frontend for managing student records.<br>
 [Repository](https://github.com/Archismita-Das/REPO-NAME)
 
 ## Technical Skills
