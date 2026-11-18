@@ -1,7 +1,7 @@
 <p align="center"><i>Hello · नमस्ते · নমস্কারం</i></p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Archismita%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Archismita%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%"/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C084FC&center=true&vCenter=true&width=600&lines=NLP+%26+AI+Researcher;Knowledge+Graph+Builder;Full-Stack+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C084FC&center=true&vCenter=true&width=600&height=40&lines=NLP+%26+AI+Researcher;Knowledge+Graph+Builder;Full-Stack+Developer" alt="Typing animation" />
 </p>
 B.Tech Computer Science student (graduating 2027) working on NLP and causal AI. My research focuses on extracting structured causal models from text using LLM-based pipelines, with an emphasis on Indian languages. I also build full-stack applications.
 
